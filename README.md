@@ -1,0 +1,2 @@
+# personal-django-website
+ This project is meant for learning, building, and allow me to play more with Python. I will use this website to showcase who I am, what I do, and my side projects. I will use a corner of this website to keep a daily journal and process of building my special project that involves image processing sport clips and keeps a database full of plays and users are able to pull them into their own and build on top of it. The working title for this project is: Project Play Vision. 
